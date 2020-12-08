@@ -1,2 +1,2 @@
 # 3dflow
-visualizing deep learning by 3D framework
+visualizing deep learning models by using 3D framework(Pyvista)
